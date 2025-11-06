@@ -45,6 +45,9 @@ header{
     height: 3.5rem;
     border-radius: 50%;
 }
+.activo{
+	background-color: var(--color-hover);
+}
 .sidebar{
     box-shadow:  0.1rem 0.2rem 0.4rem black;
     display: flex;
